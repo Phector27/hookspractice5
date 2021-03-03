@@ -1,3 +1,3 @@
 # Clima hooks practice App
 
-[Clima_App](https://climaconhooks.netlify.appp).
+Go to app: [Clima_App](https://climaconhooks.netlify.app).
